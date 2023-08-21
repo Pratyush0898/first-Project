@@ -1,3 +1,6 @@
+#a,b,obj is used to receive input from user
+#if, elif and else is used to operate and print output
+
 print ('Calculator')
 
 a=int(input('enter the value1:'))
